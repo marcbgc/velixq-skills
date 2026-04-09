@@ -107,6 +107,70 @@ Gemaess §19 UStG wird keine Umsatzsteuer berechnet.
 
 ---
 
+## Cold Email Formula (ALWAYS USE THIS)
+
+When writing a cold email for a potential client, ALWAYS follow this exact formula.
+
+**Marc's contact details – use in every email:**
+- Name: Marc Begic
+- Phone: +49 179 2129203
+- Agency: Velixq Digital Agency
+- Website: velixq.com
+
+**Subject line:** Ich habe Ihre neue Website fertig – darf ich sie Ihnen zeigen?
+
+**Email structure (in order):**
+1. HOOK: Claim the website is already built – creates instant curiosity
+2. PAIN: Name the specific problem found on their website (mobile, Google, outdated design)
+3. COMPETITOR THREAT: ALWAYS include this – it hits every Handwerker hard
+4. CREDIBILITY: Reference past work with similar Muenchen tradespeople
+5. CTA: Zoom-Call, 15 Minuten, kein Druck
+
+**Email Template:**
+```
+Betreff: Ich habe Ihre neue Website fertig – darf ich sie Ihnen zeigen?
+
+Guten Tag [Name / Firma],
+
+ich habe mir erlaubt, eine neue Version Ihrer Website zu erstellen – kostenlos,
+damit Sie sehen was moeglich ist.
+
+Der Grund: Ich habe Ihre aktuelle Seite gesehen und sofort erkannt, dass Sie
+viele Kunden verlieren – nicht weil Ihre Arbeit schlecht ist, sondern weil
+[SPEZIFISCHES PROBLEM: z.B. die Website auf dem Handy kaum nutzbar ist /
+bei Google fast unsichtbar bleibt / seit Jahren nicht aktualisiert wurde].
+
+Das bedeutet konkret: Wer heute in [Stadt] nach "[Leistung des Kunden]" sucht,
+findet Ihre Mitbewerber – nicht Sie. Diese Kunden sind weg, bevor Sie
+ueberhaupt wissen dass sie existieren.
+
+Ich bin Marc Begic von Velixq Digital aus Muenchen. Ich spezialisiere mich auf
+Handwerksbetriebe und habe bereits fuer mehrere Sanitaer- und Heizungsbetriebe
+in Muenchen moderne Websites gebaut – mit dem Ergebnis: mehr Anrufe,
+mehr Anfragen, mehr Auftraege.
+
+Ihre neue Website ist fertig. Ich wuerde sie Ihnen gerne in einem kurzen
+Zoom-Call zeigen – 15 Minuten, kein Druck, keine Verpflichtung.
+
+Wann passt es Ihnen diese Woche?
+
+Mit freundlichen Gruessen
+Marc Begic
+Velixq Digital Agency
++49 179 2129203
+velixq.com
+```
+
+**IMPORTANT rules for every cold email:**
+- Always research their website first and name ONE specific problem
+- ALWAYS mention that customers are going to competitors instead
+- ALWAYS claim the new website is already built (creates curiosity)
+- Keep it short – Handwerker read max 5-6 sentences
+- End with a direct question: "Wann passt es Ihnen diese Woche?"
+- Never send on weekends or Friday afternoon
+
+---
+
 ## Lead Research Workflow
 
 When finding potential clients:
