@@ -130,5 +130,9 @@ velixq.com
 - ALWAYS claim the website is already built - creates urgency and curiosity
 - ALWAYS output in a code block so the user can copy it directly without editing
 - NEVER send on weekends or Friday afternoon
+- WEEKDAY RULE for CTA: Check today's date before writing the CTA
+  - Monday or Tuesday → "Wann passt es Ihnen diese Woche?"
+  - Wednesday, Thursday, Friday or later → "Wann passt es Ihnen naechste Woche?"
+  - Always apply this rule automatically based on the current date
 - NEVER use more than 6 sentences in the main body
 - NEVER use bold, bullets or markdown formatting inside the email code block
