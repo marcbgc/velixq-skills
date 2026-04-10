@@ -64,11 +64,29 @@ RULE 3: Preserve ALL line breaks and blank lines exactly as written - never coll
 RULE 4: Never add markdown formatting inside the code block (no bold, no bullets, no headers)
 RULE 5: After the code block, add a short 3-bullet analysis of the specific problems found
 
+## Subject Line Rules
+
+NEVER use generic subjects. Always pick ONE of these approaches based on the company:
+- Use their founding year if old: "Seit [JAHR] – aber Google findet Sie kaum"
+- Use their city/district: "Ihre Mitbewerber in [STADTTEIL] gewinnen gerade Ihre Kunden"
+- Use a direct question: "Kurze Frage zu Ihrer Website, Herr/Frau [NAME]"
+- Use their specific weakness: "Ihre Website ist auf dem Handy kaum nutzbar – das kostet Sie Kunden"
+- Short and mysterious: "Ich habe etwas fuer Sie gebaut"
+
+Always choose the subject that fits the company best. Never use the same subject twice.
+
+---
+
 ### Exact Output Format to use every time:
+
+**An:**
+```
+[GEFUNDENE EMAIL ADRESSE DER FIRMA]
+```
 
 **Betreff:**
 ```
-Ich habe Ihre neue Website fertig - darf ich sie Ihnen zeigen?
+[INDIVIDUELL GEWAEHLTER BETREFF - NIEMALS GENERISCH]
 ```
 
 **E-Mail:**
